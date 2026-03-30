@@ -1,6 +1,6 @@
 📂 **Contents of the Folder**
-1 Electronic Details Document
-2 Circuit Diagram
+1. Electronic Details Document
+2. Circuit Diagram
 
 
 ⚠️ **Guidelines**
