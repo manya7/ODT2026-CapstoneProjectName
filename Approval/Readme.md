@@ -1,2 +1,2 @@
-File containing basic info about the project for approval
+
 An old rotary phone is used as an interactive storytelling device. The user dials numbers and each input reveals parts of a detective story through audio or visuals. The system records the sequence and responds with clues, guiding the user to solve a mystery. When the correct final number sequence is dialed, a flower physically opens, representing the reveal of the truth and the end of the story
